@@ -7,3 +7,7 @@
 
 ### 部分说明
 __renamesh.sh__ 文件是曾经有次提交使用了公司的用户名和邮箱。脚本更改。
+执行完上述脚本后推送使用，记得本次也有提交更新哦。
+```javascript
+git push --force --tags origin HEAD:master
+````
