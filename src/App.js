@@ -1,14 +1,10 @@
-import './App.css';
-// import Counter from './demo/Counter'
-// import UserList from './demo/UserList'
-import WindowResize from './demo/WindowResize/index-new'
+import './App.css'
+import UseState from './demo/UseState'
 
 function App() {
   return (
     <div className="App">
-      {/* <Counter />
-      <UserList /> */}
-      <WindowResize />
+      <UseState />
     </div>
   );
 }
