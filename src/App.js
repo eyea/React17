@@ -1,10 +1,10 @@
 import './App.css'
-import UseState from './demo/UseState'
+import UseEffect from './demo/useEffect'
 
 function App() {
   return (
     <div className="App">
-      <UseState />
+      <UseEffect />
     </div>
   );
 }
